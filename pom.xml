@@ -46,6 +46,7 @@
     </dependencies>
 
     <build>
+             <finalName>myname</finalName>
         <plugins>
             <!-- Плагин для создания fat JAR -->
             <plugin>
